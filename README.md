@@ -3,8 +3,8 @@ Chapter 1 code_Project_3 The Third Part 3  of "The Arduino World Book" code_Proj
 
 - code_Project_3
 -  By:Farkad Adnan فرقد عدنان - 
- -E-mail: farkad.hpfa95@gmail.com 
--inst : farkadadnan 
+ - E-mail: farkad.hpfa95@gmail.com 
+- inst : farkadadnan 
 - #farkadadnan , #farkad_adnan , فرقد عدنان# 
 - FaceBook: كتاب عالم الاردوينو 
 - inst : arduinobook
