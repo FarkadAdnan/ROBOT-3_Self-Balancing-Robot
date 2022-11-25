@@ -1,5 +1,5 @@
 # ROBOT-3_Self-Balancing-Robot
-Chapter 1 code_Project_3 The Third Part 3  of "The Arduino World Book" code_Project_3 ROBOT-3_Self-Balancing-Robot
+Chapter 2 code_Project_3 The Third Part 3  of "The Arduino World Book" code_Project_3 ROBOT-3_Self-Balancing-Robot
 
 - code_Project_3
 -  By:Farkad Adnan فرقد عدنان - 
